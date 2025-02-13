@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: 7ed2120350164974083fe0f4fb594eae
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: map2.4_129
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 604
+        width: 168
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8debd1dc12af0c742b01883760dec322
+      internalID: -508977587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_157
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 559
+        width: 161
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1a6fcb9e43eba45b0509d4a014efea
+      internalID: 434588424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_164
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 547
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c4aaa0e92e4624384418c987ad569d
+      internalID: -1403665882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_199
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 522
+        width: 89
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e725b5a73c4e21438b4c139a49cf862
+      internalID: 1575444292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_203
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 455
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1b20aab4e88aa4191b0675c095eef2
+      internalID: -347326754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_244
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 434
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68010156c8ae60409df4da1ca6efc86
+      internalID: 1957389403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_268
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 317
+        width: 85
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d73a1d2e26077c43aab8036642c4f35
+      internalID: -1413362858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_270
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 369
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2634e61803a7549b5c028120799601
+      internalID: 158305161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_305
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 242
+        width: 115
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cada600efccbb4b875d9d4ecaff6f6
+      internalID: 405064790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_307
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 252
+        width: 99
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46259501b93907646ab83fdf33fd489a
+      internalID: -1353559150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_320
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 157
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e851254cbb683f14bb2bc447413aa295
+      internalID: 1490090494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_379
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 57
+        width: 105
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab84e712b480884dbf24ab5e8b07a8b
+      internalID: -965003903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_0
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 97
+        width: 94
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8314b0d82ee242344ad98990049e0335
+      internalID: -1118915699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_1
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 54
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d4d2c0472d61419c352f74c9ed4f8
+      internalID: -1353119078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_2
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 107
+        width: 163
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2098f0ff276fe42aed9ec841a0c55d
+      internalID: -435122375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: map2.4_3
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 170
+        width: 128
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c3f8d3a374db49a26ecb11c2c7271
+      internalID: -1489237455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      map2.4_0: -1118915699
+      map2.4_1: -1353119078
+      map2.4_10: -450769611
+      map2.4_100: -1359655389
+      map2.4_101: 513349472
+      map2.4_102: 1388414780
+      map2.4_103: 1146138194
+      map2.4_104: 545860339
+      map2.4_105: -60648039
+      map2.4_106: -784935121
+      map2.4_107: 882934463
+      map2.4_108: 1443156730
+      map2.4_109: -206417845
+      map2.4_11: 1605648028
+      map2.4_110: -354348641
+      map2.4_111: -1199163776
+      map2.4_112: 382748388
+      map2.4_113: -286966259
+      map2.4_114: -1075251112
+      map2.4_115: -944896764
+      map2.4_116: 1162519780
+      map2.4_117: 1709157689
+      map2.4_118: 1390051436
+      map2.4_119: -1459377886
+      map2.4_12: 276856635
+      map2.4_120: 666010865
+      map2.4_121: 346658879
+      map2.4_122: 171438786
+      map2.4_123: 1116301526
+      map2.4_124: -737889013
+      map2.4_125: -1516374637
+      map2.4_126: -19523624
+      map2.4_127: 229749918
+      map2.4_128: 1926327186
+      map2.4_129: -508977587
+      map2.4_13: -643024931
+      map2.4_130: -2097455865
+      map2.4_131: -906130736
+      map2.4_132: -1420597331
+      map2.4_133: -1695095239
+      map2.4_134: -914748018
+      map2.4_135: 1118168116
+      map2.4_136: 1290808901
+      map2.4_137: -980210974
+      map2.4_138: 1907067802
+      map2.4_139: -1703172309
+      map2.4_14: 622310535
+      map2.4_140: 268861659
+      map2.4_141: 766672052
+      map2.4_142: -1868378128
+      map2.4_143: -314742408
+      map2.4_144: 2134353016
+      map2.4_145: 1141319307
+      map2.4_146: 2100653930
+      map2.4_147: 813651345
+      map2.4_148: -1664400575
+      map2.4_149: -1495374913
+      map2.4_15: -744219460
+      map2.4_150: 1671336314
+      map2.4_151: 1186955783
+      map2.4_152: 151957231
+      map2.4_153: 2094120295
+      map2.4_154: -1499957112
+      map2.4_155: -1968152107
+      map2.4_156: 2088321482
+      map2.4_157: 434588424
+      map2.4_158: 1961465680
+      map2.4_159: 2091913093
+      map2.4_16: -90278017
+      map2.4_160: -135340053
+      map2.4_161: 306534805
+      map2.4_162: -783772653
+      map2.4_163: -144930262
+      map2.4_164: -1403665882
+      map2.4_165: 751522987
+      map2.4_166: 1933580404
+      map2.4_167: -1154980268
+      map2.4_168: 1897663724
+      map2.4_169: -102537734
+      map2.4_17: 2100087423
+      map2.4_170: 423271925
+      map2.4_171: -746188112
+      map2.4_172: -1683764247
+      map2.4_173: -459635251
+      map2.4_174: 1572758333
+      map2.4_175: -360773542
+      map2.4_176: 994554276
+      map2.4_177: 2097116939
+      map2.4_178: -2041042937
+      map2.4_179: -29479448
+      map2.4_18: 116525630
+      map2.4_180: 1407320603
+      map2.4_181: 439471380
+      map2.4_182: 1865828777
+      map2.4_183: -1836247262
+      map2.4_184: 893303943
+      map2.4_185: -866794957
+      map2.4_186: 347864240
+      map2.4_187: 1628200344
+      map2.4_188: -1850721707
+      map2.4_189: 1578849678
+      map2.4_19: -1811472762
+      map2.4_190: -1412443103
+      map2.4_191: -186961657
+      map2.4_192: 1919525608
+      map2.4_193: -1685233658
+      map2.4_194: -958043373
+      map2.4_195: 1929061794
+      map2.4_196: 1197370365
+      map2.4_197: 1638431851
+      map2.4_198: 285911231
+      map2.4_199: 1575444292
+      map2.4_2: -435122375
+      map2.4_20: -875485105
+      map2.4_200: 623917661
+      map2.4_201: -1561719021
+      map2.4_202: 1355546346
+      map2.4_203: -347326754
+      map2.4_204: 619858874
+      map2.4_205: -1000376893
+      map2.4_206: 2056971496
+      map2.4_207: 2055919786
+      map2.4_208: 1428843081
+      map2.4_209: -2107459009
+      map2.4_21: -263356502
+      map2.4_210: -595847989
+      map2.4_211: -1167801874
+      map2.4_212: -1425132830
+      map2.4_213: 776575315
+      map2.4_214: -1761784443
+      map2.4_215: -25017710
+      map2.4_216: 1369149048
+      map2.4_217: 1138862664
+      map2.4_218: 307111140
+      map2.4_219: 1766247369
+      map2.4_22: 399582083
+      map2.4_220: -604759431
+      map2.4_221: 1500249112
+      map2.4_222: 1953332742
+      map2.4_223: -1230693702
+      map2.4_224: -617808063
+      map2.4_225: -28034845
+      map2.4_226: 1479123600
+      map2.4_227: -1575812718
+      map2.4_228: -1398909428
+      map2.4_229: 1191930295
+      map2.4_23: -1076000101
+      map2.4_230: 1799423979
+      map2.4_231: 1980307332
+      map2.4_232: 1779170396
+      map2.4_233: 1816967389
+      map2.4_234: -1333186731
+      map2.4_235: 122256303
+      map2.4_236: -1655098161
+      map2.4_237: 569906984
+      map2.4_238: -573420955
+      map2.4_239: -1592208264
+      map2.4_24: 812128736
+      map2.4_240: -1247364646
+      map2.4_241: -1064368415
+      map2.4_242: -411109777
+      map2.4_243: 1545085406
+      map2.4_244: 1957389403
+      map2.4_245: -1557743632
+      map2.4_246: -2137669479
+      map2.4_247: 2049941684
+      map2.4_248: -543717124
+      map2.4_249: 393027597
+      map2.4_25: -804055679
+      map2.4_250: 1168902032
+      map2.4_251: -1879633619
+      map2.4_252: 1264898070
+      map2.4_253: 1182646454
+      map2.4_254: -330478934
+      map2.4_255: 668252001
+      map2.4_256: -1415505718
+      map2.4_257: -1541390341
+      map2.4_258: 1235119733
+      map2.4_259: -390115696
+      map2.4_26: 2050571570
+      map2.4_260: 165976098
+      map2.4_261: -1362245994
+      map2.4_262: 1841954306
+      map2.4_263: 1493173934
+      map2.4_264: -625803250
+      map2.4_265: -1379138664
+      map2.4_266: 695272211
+      map2.4_267: 1042754386
+      map2.4_268: -1413362858
+      map2.4_269: 781095374
+      map2.4_27: 1333409955
+      map2.4_270: 158305161
+      map2.4_271: -194192681
+      map2.4_272: -2127579889
+      map2.4_273: -439117144
+      map2.4_274: 1212597889
+      map2.4_275: -771572616
+      map2.4_276: 1954202503
+      map2.4_277: 1744463888
+      map2.4_278: -598992571
+      map2.4_279: -1797411565
+      map2.4_28: 325785648
+      map2.4_280: -366702728
+      map2.4_281: 1636048036
+      map2.4_282: 1574563477
+      map2.4_283: 649963644
+      map2.4_284: -38706870
+      map2.4_285: -1957670358
+      map2.4_286: 752334310
+      map2.4_287: 657947647
+      map2.4_288: 2089556097
+      map2.4_289: 1105160088
+      map2.4_29: 836817
+      map2.4_290: 723883492
+      map2.4_291: -70520361
+      map2.4_292: -2032666531
+      map2.4_293: 745679584
+      map2.4_294: 351288203
+      map2.4_295: -996861297
+      map2.4_296: -396355931
+      map2.4_297: 588395186
+      map2.4_298: 1012680601
+      map2.4_299: 916690929
+      map2.4_3: -1489237455
+      map2.4_30: -470432112
+      map2.4_300: 1823810175
+      map2.4_301: -1878853630
+      map2.4_302: -1171260324
+      map2.4_303: -828597046
+      map2.4_304: -1824779794
+      map2.4_305: 405064790
+      map2.4_306: 1298363837
+      map2.4_307: -1353559150
+      map2.4_308: -1890760875
+      map2.4_309: 1763159435
+      map2.4_31: -1086056863
+      map2.4_310: -232272735
+      map2.4_311: -1060471677
+      map2.4_312: -320329998
+      map2.4_313: -1541242933
+      map2.4_314: -2105012480
+      map2.4_315: 1387736567
+      map2.4_316: 2074748438
+      map2.4_317: -121178553
+      map2.4_318: 115016185
+      map2.4_319: -134429093
+      map2.4_32: 1748720917
+      map2.4_320: 1490090494
+      map2.4_321: 1474737376
+      map2.4_322: -568308221
+      map2.4_323: -745662757
+      map2.4_324: -1332254561
+      map2.4_325: -940318776
+      map2.4_326: 1992604016
+      map2.4_327: -925589603
+      map2.4_328: -1962306638
+      map2.4_329: -1660398574
+      map2.4_33: 544486970
+      map2.4_330: 338199609
+      map2.4_331: 313280896
+      map2.4_332: 574668844
+      map2.4_333: 168069722
+      map2.4_334: 1631720987
+      map2.4_335: 805108212
+      map2.4_336: -1231513036
+      map2.4_337: -366267665
+      map2.4_338: 1311873311
+      map2.4_339: -1613366760
+      map2.4_34: 960264495
+      map2.4_340: -1332819345
+      map2.4_341: 164467105
+      map2.4_342: 169027464
+      map2.4_343: -1235496292
+      map2.4_344: 1898919011
+      map2.4_345: -1026917959
+      map2.4_346: 970301593
+      map2.4_347: -771740817
+      map2.4_348: -1368335486
+      map2.4_349: -354065099
+      map2.4_35: -1797951819
+      map2.4_350: -589719690
+      map2.4_351: -1461506779
+      map2.4_352: -422750659
+      map2.4_353: 914047247
+      map2.4_354: -760579612
+      map2.4_355: -684748893
+      map2.4_356: -1306950808
+      map2.4_357: 1937841377
+      map2.4_358: -1153158444
+      map2.4_359: 1025681831
+      map2.4_36: -2030519768
+      map2.4_360: 388687683
+      map2.4_361: 922907407
+      map2.4_362: -2038425603
+      map2.4_363: 1104547262
+      map2.4_364: -948283133
+      map2.4_365: -485014803
+      map2.4_366: 1444067507
+      map2.4_367: -1980768440
+      map2.4_368: -157917979
+      map2.4_369: -1370869240
+      map2.4_37: 391511271
+      map2.4_370: 2125130157
+      map2.4_371: -833678713
+      map2.4_372: -1365209972
+      map2.4_373: -2101472283
+      map2.4_374: 1330571811
+      map2.4_375: 676332993
+      map2.4_376: 1705335584
+      map2.4_377: -346673353
+      map2.4_378: 766699748
+      map2.4_379: -965003903
+      map2.4_38: 299332373
+      map2.4_380: 1499124208
+      map2.4_39: 662475442
+      map2.4_4: -1082277010
+      map2.4_40: 1494990897
+      map2.4_41: -466981874
+      map2.4_42: -1707784804
+      map2.4_43: 40979673
+      map2.4_44: -1529186396
+      map2.4_45: 1950672071
+      map2.4_46: 1636086961
+      map2.4_47: -994189809
+      map2.4_48: 261872072
+      map2.4_49: 1874070956
+      map2.4_5: 556352280
+      map2.4_50: 1023357589
+      map2.4_51: 712782529
+      map2.4_52: 1906523382
+      map2.4_53: 1117636274
+      map2.4_54: -1140137127
+      map2.4_55: -2024128366
+      map2.4_56: 956245597
+      map2.4_57: 333203718
+      map2.4_58: 948758220
+      map2.4_59: -658896812
+      map2.4_6: -509726946
+      map2.4_60: -1541721511
+      map2.4_61: -2144307871
+      map2.4_62: 330000892
+      map2.4_63: -1988617723
+      map2.4_64: 425672712
+      map2.4_65: -2013544155
+      map2.4_66: 719862332
+      map2.4_67: -1147127391
+      map2.4_68: -472790882
+      map2.4_69: -1799657587
+      map2.4_7: 880389857
+      map2.4_70: 1073616067
+      map2.4_71: -1160630157
+      map2.4_72: 424405817
+      map2.4_73: -1074180691
+      map2.4_74: -1368974981
+      map2.4_75: 95019007
+      map2.4_76: 293908762
+      map2.4_77: 1420098144
+      map2.4_78: -575513543
+      map2.4_79: -162312591
+      map2.4_8: 35945169
+      map2.4_80: 1074258483
+      map2.4_81: -503561338
+      map2.4_82: -1984191933
+      map2.4_83: 564537972
+      map2.4_84: -1913520008
+      map2.4_85: 1332936689
+      map2.4_86: 1895628335
+      map2.4_87: -186099127
+      map2.4_88: 828942499
+      map2.4_89: 1399438259
+      map2.4_9: -769741271
+      map2.4_90: 20015914
+      map2.4_91: -1124089334
+      map2.4_92: -2116920646
+      map2.4_93: -1128719458
+      map2.4_94: 574756307
+      map2.4_95: 1459147392
+      map2.4_96: 342438384
+      map2.4_97: -2008448359
+      map2.4_98: -177206374
+      map2.4_99: -646252004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
